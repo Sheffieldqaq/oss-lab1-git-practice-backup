@@ -15,3 +15,10 @@
 ## 协作说明
 
 本段由协作者克隆仓库后补充，用于演示 clone 与 push。
+
+## farewell 用法
+
+```python
+from hello import farewell
+print(farewell("Open Source"))
+```
