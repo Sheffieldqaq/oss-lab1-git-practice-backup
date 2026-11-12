@@ -23,3 +23,20 @@
 from hello import farewell
 print(farewell("Open Source"))
 ```
+
+## 使用示例
+
+```bash
+python hello.py
+# Hello, Open Source!
+# Goodbye, Open Source!
+```
+
+## 贡献指南
+
+1. Fork 本仓库并克隆到本地；
+2. 新建分支：`git switch -c feature/your-change`；
+3. 提交修改并推送到自己的 Fork；
+4. 向本仓库提交 Pull Request。
+
+详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
